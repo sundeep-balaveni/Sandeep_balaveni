@@ -1,8 +1,7 @@
-
-<h1 align="center">⚙️ DevOps Engineer | Cloud & Platform Engineering</h1>
+<h1 align="center">⚙️ DevOps Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF0000&center=true&vCenter=true&width=500&lines=DevOps+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF0000&center=true&vCenter=true&width=400&lines=DevOps+Engineer" />
 </p>
 
 ---
@@ -15,8 +14,22 @@ I work across **cloud platforms, containers, CI/CD pipelines, and observability 
 
 ---
 
-## 💻 Tech Stack
+## 🧭 Career Snapshot
 
+### 🏢 Dexian — Associate Software Engineer (DevOps)  
+📅 Mar 2024 – Present  
+
+- ⚙️ Cloud infrastructure support & automation  
+- ☁️ AWS-based deployments and maintenance  
+- 🐳 Docker containerization and image management  
+- ☸️ Kubernetes deployments and troubleshooting  
+- 🔄 CI/CD pipeline maintenance (Jenkins / GitHub Actions)  
+- 📦 Terraform-based infrastructure support  
+- 📊 Monitoring & incident troubleshooting  
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -34,7 +47,6 @@ I work across **cloud platforms, containers, CI/CD pipelines, and observability 
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 </p>
-
 
 ---
 
@@ -58,37 +70,20 @@ I work across **cloud platforms, containers, CI/CD pipelines, and observability 
 
 ---
 
-## 🧭 Career Snapshot
-
-### 🏢 Dexian — Associate Software Engineer (DevOps)
-📅 Mar 2024 – Present
-
-- ⚙️ Cloud infrastructure support & automation
-- ☁️ AWS-based deployments and maintenance
-- 🐳 Docker containerization and image management
-- ☸️ Kubernetes deployments and troubleshooting
-- 🔄 CI/CD pipeline maintenance (Jenkins / GitHub Actions)
-- 📦 Terraform-based infrastructure support
-- 📊 Monitoring & incident troubleshooting
-
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sundeep-balaveni&show_icons=true&theme=highcontrast"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=sundeep-balaveni&theme=highcontrast"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sundeep-balaveni&show_icons=true&theme=highcontrast"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=sundeep-balaveni&theme=highcontrast"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sundeep-balaveni/sundeep-balaveni/main/dist/github-contribution-grid-snake.svg" />
 </p>
+
+---
 
 ## 🧠 DevOps Mindset
 
