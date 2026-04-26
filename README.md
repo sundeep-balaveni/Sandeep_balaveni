@@ -5,10 +5,7 @@ I’m a DevOps Engineer ⚙️ focused on automating and optimizing cloud infras
 
 ## 🌐 Socials:
 
-<p align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandeep_balaveni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sandip-cloud) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sandeep_balaveni) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sandeep_balaveni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandeepbalaveni2000@gmail.com) 
-
-</p>
+<p align="center"> <a href="https://instagram.com/sandeep_balaveni"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /> </a> <a href="https://linkedin.com/in/sandip-cloud"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@sandeep_balaveni"> <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /> </a> <a href="https://stackoverflow.com/users/sandeep_balaveni"> <img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white" /> </a> <a href="mailto:sandeepbalaveni2000@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /> </a> </p>
 
 # 💻 Tech Stack:
 
