@@ -1,11 +1,10 @@
 
 <h1 align="center">⚙️ DevOps Engineer | Cloud & Platform Engineering</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Cloud+Engineer+☁️;DevOps+Automation+⚙️;Kubernetes+%26+Docker+Expert+🐳;CI%2FCD+Pipeline+Builder+🔄;Infrastructure+as+Code+with+Terraform+📦" />
-</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF0000&center=true&vCenter=true&width=500&lines=DevOps+Engineer" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/devops-terminal.gif" width="600"/>
