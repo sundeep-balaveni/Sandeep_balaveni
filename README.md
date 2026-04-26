@@ -66,36 +66,8 @@ Cloud Infrastructure • DevOps Automation • CI/CD • Containers • Producti
 
 ## 💻 Tech Stack
 
-<p align="center">
-
-☁️ Cloud  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure"/>
-
-🧱 Infrastructure as Code  
-<img src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform"/>
-<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible"/>
-
-🐳 Containers  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm"/>
-
-🔄 CI/CD  
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
-
-📊 Monitoring  
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
-
-💻 OS & Scripting  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell"/>
-
-</p>
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
