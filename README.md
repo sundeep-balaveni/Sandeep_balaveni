@@ -15,18 +15,26 @@ I work across **cloud platforms, containers, CI/CD pipelines, and observability 
 
 ---
 
-## 🧭 Career Snapshot
+## 💻 Tech Stack
 
-### 🏢 Dexian — Associate Software Engineer (DevOps)
-📅 Mar 2024 – Present
 
-- ⚙️ Cloud infrastructure support & automation
-- ☁️ AWS-based deployments and maintenance
-- 🐳 Docker containerization and image management
-- ☸️ Kubernetes deployments and troubleshooting
-- 🔄 CI/CD pipeline maintenance (Jenkins / GitHub Actions)
-- 📦 Terraform-based infrastructure support
-- 📊 Monitoring & incident troubleshooting
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+</p>
+
 
 ---
 
@@ -50,25 +58,19 @@ I work across **cloud platforms, containers, CI/CD pipelines, and observability 
 
 ---
 
-## 💻 Tech Stack
+## 🧭 Career Snapshot
 
+### 🏢 Dexian — Associate Software Engineer (DevOps)
+📅 Mar 2024 – Present
 
-<p align="center">
+- ⚙️ Cloud infrastructure support & automation
+- ☁️ AWS-based deployments and maintenance
+- 🐳 Docker containerization and image management
+- ☸️ Kubernetes deployments and troubleshooting
+- 🔄 CI/CD pipeline maintenance (Jenkins / GitHub Actions)
+- 📦 Terraform-based infrastructure support
+- 📊 Monitoring & incident troubleshooting
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-</p>
 
 ---
 
