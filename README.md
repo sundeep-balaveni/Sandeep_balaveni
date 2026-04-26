@@ -86,7 +86,7 @@ I work across **cloud platforms, containers, CI/CD pipelines, and observability 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sundeep-balaveni/sundeep-balaveni/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sundeep-balaveni/sundeep-balaveni/main/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🧠 DevOps Mindset
